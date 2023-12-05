@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O Manual de Boas Práticas em HBIM - Historic Building Information Modeling (Modelagem de Informação para Construção Histórica) pretende ser um guia essencial para profissionais envolvidos na preservação e gestão de edifícios históricos. Este manual destina-se a orientar a aplicação eficaz de técnicas e processos HBIM, combinando os princípios da Modelagem de Informação para Construção com a sensibilidade e considerações específicas relacionadas ao patrimônio histórico.
+O Manual de Boas Práticas em HBIM - Heritage Building Information Modeling (Modelagem de Informação para Construção Histórica) pretende ser um guia essencial para profissionais envolvidos na preservação e gestão de edifícios históricos. Este manual destina-se a orientar a aplicação eficaz de técnicas e processos HBIM, combinando os princípios da Modelagem de Informação para Construção com a sensibilidade e considerações específicas relacionadas ao patrimônio histórico.
 
 ## Objetivo
 
